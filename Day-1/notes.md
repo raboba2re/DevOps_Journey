@@ -15,7 +15,7 @@ During this time, the developement team will be iddle, waiting for feedback from
 To address this issue, the DevOps culture/Philosophy was developed to enable these teams work together. This brought about an infinity process of improving effitiancy and contstsnt activity.
 The DevOps culture is implemented in several phase using different tools.
 
-## Phase of DevOps
+## Phases of DevOps
 
 1. The first Phase of  Devops is the **Planning phase**, in this phase the development team draft out a plan for the project/application keeping in mind what  desire or objectives  of the application the user expect.
 
